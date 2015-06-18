@@ -17,13 +17,9 @@
 				<h4>My Profile</h4>
 				<div class="underline-small"></div>
 				<ul>
-					<li>EVANS RIZAL FAHLEVI</li>
-					<li>1110013231100</li>
-					<li>PENDIDIKAN TEKNIK INFORMATIKA & KOMPUTER</li>
-					<li>FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN</li>
-					<li>
-						<a href="mailto:info@yourdomain.com">vanz_la46@yahoo.co.id</a>
-					</li>
+					<li>ARI MUNANDAR</li>
+					<li>arimunandar.dev@gmail.com</li>
+					<li>+6282384669700</li>
 				</ul>
 			</div>
 
