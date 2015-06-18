@@ -1,6 +1,6 @@
 
                 <footer>
-                    <div id="footer">Copyright &copy; 2015 <a href="#">Evans Rizal Fahlevi</a> Made with <i class="fontello-heart-1 text-green"></i></div>
+                    <div id="footer">Copyright &copy; 2015 <a href="#">Ari Munandar | arimunandar.dev@gmail.com</a> Made with <i class="fontello-heart-1 text-green"></i></div>
 
                 </footer>
             </div>
