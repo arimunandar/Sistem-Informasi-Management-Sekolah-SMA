@@ -1,2 +1,2 @@
 # SIMS
-Sistem Informasi Management Nilai Siswa SMP N 14 Padang
+Sistem Informasi Management Sekolah SMAN 1 Solok Selatan | Sumatera Barat
